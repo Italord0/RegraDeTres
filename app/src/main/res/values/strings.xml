@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">RegraDeTres</string>
+    <string name="app_name">Regra De Três</string>
+    <string name="produto_1">Produto 1</string>
+    <string name="produto_2">Produto 2</string>
+    <string name="valor">Valor :</string>
+    <string name="quantidade">Quantidade :</string>
+    <string name="money_sign">0 $</string>
+    <string name="zero">0</string>
+    <string name="calcular">Calcular!</string>
+    <string name="o_item">Calcular!</string>
+    <string name="o_produto_x_e_mais_barato">O produto %1s é mais barato.</string>
+    <string name="apenas_compre_o_produto_x_caso_o_valor_seja_abaixo_de">Apenas compre o produto %1s caso o valor seja abaixo de %2s reais.</string>
+    <string name="os_produtos_tem_preco_igual">Os produtos têm preços equivalentes.</string>
 </resources>
